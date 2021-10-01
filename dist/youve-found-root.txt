@@ -1,0 +1,3 @@
+This is the root directory, otherwise known as /
+This directory is the base directory that every directory stems from. Some notable folders here include /home - home folders and /etc - global configuration files.
+More info available here: https://linuxhandbook.com/linux-directory-structure/
