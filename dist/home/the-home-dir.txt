@@ -1,0 +1,5 @@
+You've successfully found the home directory. /home/ contains the home directories for all users on the system.
+Your home directory, /home/player/ is the location where most of your files are stored.
+This directory is also referenced as ~/ since it makes typing paths easier and makes it easier for programs to find your home directory
+
+Now use cd to enter into the next-location directory for the next challenge

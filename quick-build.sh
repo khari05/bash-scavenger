@@ -1,5 +1,5 @@
 for file in ./src/*; do
   name="${file##*/}"
   name="${name%.*}"
-  gcc $file -o dist/$name
+  gcc $file -o ./$name
 done

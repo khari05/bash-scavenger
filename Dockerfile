@@ -14,7 +14,15 @@ RUN mkdir /home/player/next-location
 
 COPY dist/hint.txt /home/player
 
-COPY dist/execute-me /home/player/next-location
+COPY dist/challenges/execute/* /home/player/next-location
+
+RUN mkdir /.super-secret-folders/linked-folder /.super-secret-folders/hidden-folder && ln -s /.super-secret-folders/hidden-folder /home/player/next-location/.super-secret-folder
+
+COPY dist/ln.txt /.super-secret-folders
+
+COPY dist/execute-me-2 /.super-secret-folders/linked-folder
+
+COPY dist/remaining-challenges/* /.super-secret-folders/
 
 WORKDIR /starting-location
 

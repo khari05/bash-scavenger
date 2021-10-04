@@ -1,0 +1,3 @@
+The easiest way to find where a linked folder directs to is using the "l" flag when running ls (ls -l).
+
+ls has a bunch of flags but the useful ones can be narrowed down to l, a, t, and F.

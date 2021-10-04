@@ -1,0 +1,4 @@
+You've learned how to see hidden folders.
+Hidden folders are categorized by having their names start with a '.'
+
+The remaining challenges are where this linked folder resides.
