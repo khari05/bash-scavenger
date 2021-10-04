@@ -1,6 +1,6 @@
 Congrats! You've successfully opened a text file.
 
-When opening files, usually there are a few tools such as less or cat preinstalled. Most operating systems though include a couple other tools such as nano or vi/vim. Those tools are not present here however as they will not be necessary.
+When opening files, usually there are a few tools such as more or cat preinstalled. Most operating systems though include a couple other tools such as nano or vi/vim. Those tools are not present here however as they will not be necessary.
 
 Your next task is to find the home directory.
 Go learn how!
