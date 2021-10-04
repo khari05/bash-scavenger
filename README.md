@@ -19,4 +19,4 @@ $ docker run --rm -it khari05/bash-scavenger
 ## Resources the scavenger hunt includes
 
 - [this file structure article](https://linuxhandbook.com/linux-directory-structure/)
-- [this hint I wrote](./dist/hint.txt)
+- [this hint I wrote](./dist/home/hint.txt)
